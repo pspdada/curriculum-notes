@@ -1,4 +1,10 @@
+<div align="center">
+
 # psp_dada Undergraduate Course Notes <!-- omit in toc -->
+
+[中文](/README.md) | **English**
+
+</div>
 
 These are study notes compiled during my undergraduate years in Automation at Harbin Institute of Technology, Shenzhen, shared by [psp_dada](https://github.com/pspdada). The notes cover major course content, study insights, and some personal project summaries, aiming to help fellow students better learn and review relevant courses.
 
