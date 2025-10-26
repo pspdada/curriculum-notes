@@ -2,7 +2,7 @@
 
 # psp_dada 本科课程笔记 <!-- omit in toc -->
 
-**中文** | [English](/README_en.md)
+**中文** | [English](/docs/README_en.md)
 
 </div>
 
@@ -31,7 +31,7 @@
 
 ## 课程笔记目录
 
-| 课程名             | 课程代码                                                       | 笔记链接                                                   |
+| 课程名             | 课程代码                                                       | 笔记 PDF 链接                                              |
 | ------------------ | -------------------------------------------------------------- | ---------------------------------------------------------- |
 | 高等数学           | [MATH1015A](https://github.com/HITSZ-OpenAuto/MATH1015A)       | [高等数学笔记](notes/高等数学笔记.pdf)                     |
 | 线性代数           | [MATH1002](https://github.com/HITSZ-OpenAuto/MATH1002)         | [线性代数笔记](notes/线性代数笔记.pdf)                     |
@@ -45,7 +45,7 @@
 | 数字电路           | [EE1009](https://github.com/HITSZ-OpenAuto/EE1009)             | [数字电路笔记](notes/数字电路笔记.pdf)                     |
 | 理论力学           | [EMEC1002](https://github.com/HITSZ-OpenAuto/EMEC1002)         | [理论力学笔记](notes/理论力学笔记.pdf)                     |
 | 马原               | [GEIP1011](https://github.com/HITSZ-OpenAuto/GEIP1011)         | [马原串讲复习](notes/马原串讲复习.pdf)                     |
-| 毛中特             | [GEIP1018](https://github.com/HITSZ-OpenAuto/GEIP1018)         | [毛中特笔记](notes/毛中特笔记.pdf)                         |
+| 毛中特             | [GEIP1018](https://github.com/HITSZ-OpenAuto/GEIP1018)         | [毛中特笔记](notes/毛中特/毛中特笔记.pdf)                  |
 | 嵌入式软件培训     | [bilibili](https://space.bilibili.com/1559398123/lists/778994) | [嵌入式软件培训笔记](notes/嵌入式软件培训笔记.pdf)         |
 
 ## 致谢
